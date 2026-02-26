@@ -18,8 +18,6 @@
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=din0sauria&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  <!-- wakatime -->
-  <a href="https://wakatime.com/@din0sauria"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
 
 <picture>
@@ -48,54 +46,6 @@
 </tr></td>
 
 
-
-<tr><td>
-
-### 📊 WakaTime
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                451 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-🌆 Daytime                624 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-🌃 Evening                547 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-🌙 Night                  593 commits         ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Tuesday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Wednesday                300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Thursday                 300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Friday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Saturday                 255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Sunday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 26/02/2026 00:58:11 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
 </table>
 
 
@@ -105,13 +55,6 @@ No Activity Tracked This Week
 
 <img src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/man_run.png" width="250" height="250" />
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
 
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/left.png" />
 <picture>
@@ -146,13 +89,6 @@ No Activity Tracked This Week
 
 <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=din0sauria&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/hr.gif" />
@@ -167,26 +103,19 @@ No Activity Tracked This Week
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
@@ -196,17 +125,12 @@ No Activity Tracked This Week
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/html.webp">
@@ -229,14 +153,14 @@ No Activity Tracked This Week
 <img width="200%" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/hr.gif" />
 
 <div align="center">
+<!-- 
+<img width="36%" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/githubgif.gif" /> -->
 
-<img width="36%" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/githubgif.gif" />
-
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
-</table>
+</table> -->
 
 <table>
   <tr>
@@ -246,10 +170,6 @@ No Activity Tracked This Week
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/github-metrics/stars.svg" alt="stars" /></td>
