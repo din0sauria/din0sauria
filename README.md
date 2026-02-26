@@ -53,8 +53,6 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/man_run.png" width="250" height="250" />
-
 
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/left.png" />
 <picture>
@@ -87,7 +85,7 @@
 
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
-<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=din0sauria&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
+<div><img src="https://github-profile-trophy.vercel.app/?username=din0sauria&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 </div>
 
