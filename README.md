@@ -11,11 +11,8 @@
 <div>&nbsp;</div>
 
 <div>
-  <a href="https://x.com/din0sauria"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.youtube.com/@din0sauria"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="https://blog.guoqi.dev/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href="https://mp.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://www.cnblogs.com/dinosauria"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <a href="https://space.bilibili.com/409732544"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=din0sauria&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
@@ -27,8 +24,6 @@
 </picture>
 
 
-
-#  🙋 Hello
 
 <table>
 
@@ -77,7 +72,7 @@
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/hr.gif" />
 
 <div align="center" >
 
@@ -87,7 +82,7 @@
 
 <div><img src="https://github-profile-trophy.vercel.app/?username=din0sauria&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
-</div>
+</div> -->
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/din0sauria/din0sauria/assets/images/hr.gif" />
 
