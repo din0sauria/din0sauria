@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 138mb of code in 1056 edited files across 52 commits</small>
+                <small>estimation from 43mb of code in 926 edited files across 47 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="401.0756230485737" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="401.0756230485737" y="0" width="34.35465835011571" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="435.43028139868943" y="0" width="13.816656878808438" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.24693827749786" y="0" width="10.753061722502153" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="395.7386588772596" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="395.7386588772596" y="0" width="39.12384439610845" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="434.862503273368" y="0" width="15.734714293821586" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="450.5972175671896" y="0" width="9.402782432810383" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +37,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>47.5k lines</div>
-                                <div>3.90 MB</div>
+                                <div>33.6k lines</div>
+                                <div>3.38 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -70,13 +70,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                Assembly
                             </div>
                             <small>
-                                <div>802 lines</div>
-                                <div>104 kB</div>
+                                <div>2.46k lines</div>
+                                <div>80.3 kB</div>
                             </small>
                         </div>
                     </section>
